@@ -8,7 +8,7 @@ from sqlalchemy.orm import Session
 import google.generativeai as genai
 import re 
 
-genai.configure(api_key="AIzaSyDT5Mvuz6eqq8EKZOrKwdFWGAAs8o8QAW4") 
+genai.configure(api_key="api_key") 
 
 
 
